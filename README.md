@@ -133,7 +133,6 @@ gestion-parc-informatique/
 
 Projet réalisé dans un cadre pédagogique. Les évolutions suivantes seraient nécessaires pour un usage réel :
 
-- [ ] Hachage des mots de passe avec `password_hash()` et `password_verify()`
 - [ ] Jeton CSRF sur les formulaires de modification et de suppression
 - [ ] Confirmation avant suppression, et suppression logique plutôt que définitive
 - [ ] Gestion du cas où une machine parente est supprimée alors qu'elle porte des composants
